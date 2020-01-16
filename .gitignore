@@ -1,0 +1,8 @@
+UCIdata-exercise1/
+.ipynb_checkpoints/
+
+*.jpg
+*.png
+
+*.csv
+*./zip
